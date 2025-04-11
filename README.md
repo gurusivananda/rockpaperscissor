@@ -14,6 +14,10 @@ A simple web-based Rock Paper Scissors game built using HTML, CSS, and JavaScrip
 - CSS3
 - JavaScript (Vanilla)
 
+## 📸 Screenshot
+
+![app screenshot](./screenshot.png)
+
 ## 📂 Project Structure
 
 📁 rockpaperscissor/ ├── index.html ├── style.css ├── app.js └── images/
