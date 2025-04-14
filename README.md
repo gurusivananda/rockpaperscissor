@@ -14,6 +14,9 @@ A simple web-based Rock Paper Scissors game built using HTML, CSS, and JavaScrip
 - CSS3
 - JavaScript (Vanilla)
 
+### 🔗 Live Demo  
+👉 [Play the Game](https://gurusivananda.github.io/rockpaperscissor/)
+
 ## 📸 Screenshot
 
 ![app screenshot](./screenshot.png)
